@@ -13,7 +13,7 @@ public class Nodo<T>{
     
     public T getValor() {
         return valor;
-    }
+    }oijkjoi
     public void setValor(T valor) {
         this.valor = valor;
     }
