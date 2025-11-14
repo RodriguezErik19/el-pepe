@@ -1,0 +1,51 @@
+@startuml
+title Diagrama de dependencias entre paquetes
+
+skinparam packageStyle rectangle
+
+package "datos" as DATOS {
+  class Producto
+  class Estudiante
+  class Prestamo
+  class UniversidadDAO
+  class LectorArchivo
+}
+
+package "negocios" as NEGOCIOS {
+  class Universidad
+  class UniversidadService
+  class Criterio
+}
+
+package "uI" as UI {
+  class Aplicacion
+  class Menu
+  class MenuProductos
+  class MenuEstudiantes
+  class MenuPrestarDevolver
+  class MenuConsultar
+}
+
+package "miPrincipal" as MP {
+  class Principal
+}
+
+package "miTest" as TEST {
+  class AppTest
+}
+
+' Relaciones entre paquetes
+NEGOCIOS --> DATOS : usa modelos y DAO
+UI --> NEGOCIOS : llama a servicios
+UI --> DATOS : lee para mostrar (a veces directamente)
+MP --> UI : arranca la aplicación / menús
+TEST --> NEGOCIOS : prueba lógica de negocio
+TEST --> DATOS : utiliza fixtures (archivos en `src/miTest/archivos`)
+
+' Notas adicionales
+note right of DATOS
+  - Archivos por familia: ProductosMusicales/Deportivos/Escenicos
+  - Persistencia: `prestamos.txt`, `estudiantes.txt`
+end note
+
+@enduml

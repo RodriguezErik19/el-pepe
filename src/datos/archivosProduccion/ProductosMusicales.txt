@@ -1,0 +1,11 @@
+
+10,Guitarra,Instrumento de cuerda,madera,$100-$2000,cuerda,false
+20,Violin,Instrumento de cuerda,madera,$200-$3000,cuerda,false
+30,Trompeta,Instrumento de viento,metal,$150-$1500,viento,false
+80,Flauta,Instrumento de viento,madera/$plastic,$50-$500,viento,false
+90,Saxofon,Instrumento de viento,metal,$300-$2500,viento,false
+110,Ukelele,Ukelele soprano,Instrumento de cuerda,madera,$30-$120,cuerda,false
+120,Clarinet,Clarinete en si bemol,Instrumento de viento, madera-metal,$80-$500,viento,false
+130,Bajo electrico,Bajo de 4 cuerdas,Instrumento de cuerda,metal,$150-$1200,cuerda,false
+140,Arpa pequeña,Arpa de salón compacta,Instrumento de cuerda,madera,$300-$2000,cuerda,false
+150,Percusion set,Set de percusión básico,Instrumento de percusión,múltiple,$50-$400,percus,false
