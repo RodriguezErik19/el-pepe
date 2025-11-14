@@ -1,0 +1,6 @@
+20240001,Ana Lopez,anal@itculiacan.edu.mx,1/1/2006,Femenino,Sistemas
+20240002,Pedro Buelna,pedrob@itculiacan.edu.mx,24/12/2005,Masculino,Sistemas
+20240003,Cecilia Aragon,cecilliaa@itculiacan.edu.mx,6/12/2006,Femenimo,Sistemas
+20240004,Patricia Reyes,patriciar@itculiacan.edu.mx,30/1/2004,Femenimo,TICs
+20240005,Juan Sanchez,juans@itculiacan.edu.mx,30/5/2006,Masculino,TICs
+999900,Prueba Test,test@example.com,1/1/1990,M,CS

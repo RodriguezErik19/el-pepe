@@ -1,0 +1,11 @@
+
+101,Traje de época - Siglo XIX,Traje de época para representación teatral,tela pesada,$120-$600,XS-L,Unisex,ObraTeatro,false
+102,Vestido de gala,Vestido formal de gala,seda,$200-$1200,S-M-L,Femenino,BaileGala,false
+103,Chaqueta de mago,Chaqueta de ilusionista con detalles bordados,terciopelo,$80-$350,M-L,Unisex,ShowIlusionismo,false
+104,Sombrero bicornio,Sombrero bicornio estilo histórico,piel sintética,$30-$120,Única,Unisex,EventoHistorico,false
+105,Máscara veneciana,Máscara decorativa para teatro,tela/cerámica,$20-$120,Única,Unisex,Carnaval,false
+106,Espada de utileria,Espada para escena teatral,metal recubierto,$40-$180,Única,Unisex,Accesorio,false
+107,Zapato de danza,Zapato profesional para ballet,cuero,$50-$300,34-44,Femenino,Baile,false
+108,Peluca rubia,Peluca sintética para personaje,Peluca,sintética,$10-$80,Única,Unisex,Caracterización,false
+109,Guantes teatrales,Guantes largos de terciopelo,terciopelo,$8-$30,Única,Unisex,Accesorio,false
+110,Bastón de maestro,Bastón decorativo de escena,madera,$15-$60,Única,Unisex,Accesorio,false
