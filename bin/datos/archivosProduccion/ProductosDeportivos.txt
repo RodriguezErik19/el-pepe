@@ -1,0 +1,11 @@
+
+40,Bat de beisbol,Bate para béisbol,Beisbol,madera,$30-$200,false
+50,balón de futbol,Balon para fútbol,Futbol,cuero,$10-$150,false
+60,Tapete Yoga,Tapete para yoga,Yoga,espuma,$5-$80,false
+70,Pesitas de 500 grs,Pesas pequeñas,Gimnasio,metal,$5-$40,false
+80,Red de voleibol,Red reglamentaria para voleibol,Voleibol,sintético,$20-$80,false
+90,Conos de entrenamiento,Set de 12 conos para marcaje,Multi,plástico,$5-$20,false
+100,Raqueta tenis,Raqueta ligera para principiantes,Tenis,grafito,$40-$200,false
+110,Skates urbanos,Patines en línea con freno,Patinaje,plástico-metal,$60-$250,false
+120,Chaleco natacion,Chaleco flotador para práctica,Natación,neopreno,$15-$60,false
+130,Mallas atletismo,Mallas para entrenamiento,Atletismo,tejido técnico,$10-$45,false
